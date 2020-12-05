@@ -1,92 +1,85 @@
 # Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. 
+## Pull Request Checklist
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Before sending your pull requests, make sure you followed this list.
+
+- Read [contributing guidelines (this file)](CONTRIBUTING.md).
+- Read [Code of Conduct](CODE_OF_CONDUCT.md).
+- Check if your changes are consistent with the [guidelines](https://github.com/Rasmez/godot-classics/master/CONTRIBUTING.md#general-guidelines-and-philosophy-for-contribution).
+- Changes are consistent with the [Coding Style](https://github.com/Rasmez/godot-classics/master/CONTRIBUTING.md#gdscritpt-coding-style).
+- Changes in the graphics/audio must be consistent with the [Art Style](https://github.com/Rasmez/godot-classics/master/CONTRIBUTING.md#art-style).
+- Follow the [Pull Request Process](https://github.com/Rasmez/godot-classics/master/CONTRIBUTING.md#pull-request-process).
+
+## General guidelines and philosophy for contribution
+
+*   Include tests when you contribute new features, as they help to a)
+    prove that your code works correctly, and b) guard against future breaking
+    changes.
+*   Bug fixes also generally require a lot of tests, because the presence of bugs
+    usually indicates insufficient test coverage, so please, test your code.
+*   When you contribute a new feature to this project, the maintenance burden is
+    (by default) transferred to me. This means that the benefit
+    of the contribution must be compared against the cost of maintaining the
+    feature.
+
+## How to become a contributor and submit your changes
+
+### Contributing code
+
+If you have improvements to this project, send your pull requests! For those
+just getting started, Github has a
+[how to](https://help.github.com/articles/using-pull-requests/).
+
+I'll review your pull requests. Once the pull requests are approved and pass 
+some checks, I'll will apply the `ready to pull` label to your changes. 
+This means that i'm working on getting your pull request submitted to my internal/local repository. 
+After the change has been submitted and tested internally, your pull request will be merged
+automatically on GitHub.
+
+If you want to contribute, start working through the project codebase,
+navigate to the
+[Github "issues" tab](https://github.com/Rasmez/godot-classics/issues) and start
+looking through interesting issues. If you are not sure of where to start, then
+start by trying one of the smaller/easier issues here i.e.
+[issues with the "good first issue" label](https://github.com/Rasmez/godot-classics/labels/good%20first%20issue)
+and then take a look at the
+[issues with the "help wanted" label](https://github.com/Rasmez/godot-classics/labels/help%20wanted).
+These are issues that we believe are particularly well suited for outside
+contributions, often because we probably won't get to them right now. If you
+decide to start on an issue, leave a comment so that other people know that
+you're working on it. If you want to help out, but not alone, use the issue
+comment thread to coordinate.
+
+### Contributing graphical or audio assets
+
+If you want to submit or help with graphics or audio material for this project, send your pull requests! 
+with more or less the same guidelines for the code contribution, with some caviats:
+ 
+Your issue/pull request must have the label "audio/graphic" on it, if the pull request it's a about an open
+issue, it must have the "help wanted" label applied too.
+
+## GDscript Coding Style
+
+You can read the full GDscript coding style guide [here](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_styleguide.html)
+
+## Art Style
+
+Stick to a minimalistic aesthethic, more or less following the game art style guidelines from GDQuest, you can read the full guide [here](https://www.gdquest.com/docs/guidelines/style-guides/game-art/), you can also try to emulate the art already present in the project to the best of your ability.
+
+In the audio section, I'm trying to somewhat follow a modernized version of chiptunes, I'll post a guideline here when the sound direction is fully fledged.
+
+### Formats for art contributions:
+
+.PNG with Alpha Channel or .SVG format is used for: Sprites, Sprite sheets, Concept Art, Tiles, Tilesets, Backgrounds, Textures (for shaders), Particle effecs, and varius other components, specifications of size, color depth and pallets are not determined yet.
+
+.OGG Stereo @192 kpbs format is used for: Sound Effects, loops, background tracks or any other audio-related asset.
 
 ## Pull Request Process
 
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
-   build.
-2. Update the README.md with details of changes to the interface, this includes new environment 
-   variables, exposed ports, useful file locations and container parameters.
+1. Ensure that your code/asset works with the most recent version of the project, run at least 2 test.
+2. Update the README.md and CHANGELOG.md files with details of changes you made, this includes new environment 
+   variables, change to the interface, fixed bugs, new features added, etc.
 3. Increase the version numbers in any examples files and the README.md to the new version that this
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you 
-   do not have permission to do that, you may request the second reviewer to merge it for you.
-
-## Code of Conduct
-
-### Our Pledge
-
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
-
-### Our Standards
-
-Examples of behavior that contributes to creating a positive environment
-include:
-
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
-Examples of unacceptable behavior by participants include:
-
-* The use of sexualized language or imagery and unwelcome sexual attention or
-advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
-
-### Our Responsibilities
-
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
-
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
-
-### Scope
-
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
-
-### Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
-### Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
-
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+4. Wait for your pull request to be merge, this can take a while because I'm only one person and i'm only work on the project in my spare time (wich is not unlimited by no strech of the imagination).

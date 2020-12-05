@@ -2,6 +2,60 @@
 
 A collection of clones of "classic" games, old and new, experience familiar mechanics and gameplay with a minimalistic aesthetic and open source technologies.
 
+## Games to be "cloned"
+
+| Game                                    	| Genre                 	| Year 	| Original platform(s)                	| Clone Name 	|
+|-----------------------------------------	|-----------------------	|------	|-------------------------------------	|------------	|
+| Pong                                    	| Sports                	| 1972 	| Arcade                              	|            	|
+| Space Invaders                          	| Shoot 'em up          	| 1978 	| Arcade                              	|            	|
+| Asteroids                               	| Shoot 'em up          	| 1978 	| Arcade                              	|            	|
+| Missile Command                         	| Shoot 'em up          	| 1980 	| Arcade                              	|            	|
+| Pac-Man                                 	| Maze                  	| 1980 	| Arcade                              	|            	|
+| Galaga                                  	| Shoot 'em up          	| 1981 	| Arcade                              	|            	|
+| Pitfall!                                	| Platform              	| 1982 	| Atari 2600                          	|            	|
+| Marble Madness                          	| Action                	| 1984 	| Arcade                              	|            	|
+| Tetris                                  	| Puzzle                	| 1984 	| Electronika 60                      	|            	|
+| Super Mario Bros.                       	| Platform              	| 1985 	| Nintendo Entretainment System       	|            	|
+| The Legend of Zelda                     	| Action-Adventure      	| 1986 	| Nintendo Entretainment System       	|            	|
+| Contra                                  	| Run and gun           	| 1987 	| Arcade                              	|            	|
+| Mike Tyson's Punch Out!                 	| Sports                	| 1987 	| Nintendo Entretainment System       	|            	|
+| Megaman 2                               	| Platform              	| 1988 	| Nintendo Entretainment System       	|            	|
+| SimCity                                 	| City-Building         	| 1989 	| Amiga, Macintosh                    	|            	|
+| The Secret of Monkey Island             	| Adventure             	| 1990 	| PC                                  	|            	|
+| Civilization                            	| Turn-based Strategy   	| 1991 	| PC                                  	|            	|
+| Sonic the Hedgehog                      	| Platform              	| 1991 	| Sega Genesis                        	|            	|
+| Mortal Kombat                           	| Fighting              	| 1992 	| Arcade                              	|            	|
+| Super Mario Kart                        	| Racing                	| 1992 	| Super Nintendo Entretainment System 	|            	|
+| Doom                                    	| First Person Shooter  	| 1993 	| PC                                  	|            	|
+| Star Fox                                	| Shoot 'em up          	| 1993 	| Super Nintendo Entretainment System 	|            	|
+| Super Metroid                           	| Acton-adventure       	| 1994 	| Super Nintendo Entretainment System 	|            	|
+| Pokémon Red and Blue                    	| Role-playing          	| 1996 	| Game Boy                            	|            	|
+| Super Mario 64                          	| Platform              	| 1996 	| Nintendo 64                         	|            	|
+| Resident Evil                           	| Survival Horror       	| 1996 	| PlayStation                         	|            	|
+| Castlevania Symphony of the Night       	| Action-adventure      	| 1997 	| PlayStation                         	|            	|
+| Diablo                                  	| Action-roleplaying    	| 1997 	| PC                                  	|            	|
+| Final Fantasy Tactics                   	| Tactical role-playing 	| 1997 	| PlayStation                         	|            	|
+| Thief: The Dark Project                 	| Stealth               	| 1998 	| PC                                  	|            	|
+| Age of Empires II                       	| Real-time Strategy    	| 1999 	| PC                                  	|            	|
+| Counter-Strike                          	| First-person Shooter  	| 2000 	| PC                                  	|            	|
+| The Sims                                	| Life simulation       	| 2000 	| PC                                  	|            	|
+| Ikaruga                                 	| Shoot 'em up          	| 2001 	| Arcade                              	|            	|
+| Super Smash Bros. Melee                 	| Fighting              	| 2001 	| Nintendo GameCube                   	|            	|
+| Prince of Persia: The Sands of Time     	| Action-adventure      	| 2003 	| PlayStation 2                       	|            	|
+| World of Warcraft                       	| MMORPG                	| 2004 	| PC                                  	|            	|
+| Devil May Cry 3: Dante's Awakening      	| Action-adventure      	| 2005 	| PlayStation 2                       	|            	|
+| Guitar Hero                             	| Rhythm                	| 2005 	| PlayStation 2                       	|            	|
+| Wii Sports                              	| Sports                	| 2006 	| Nintendo Wii                        	|            	|
+| Portal                                  	| Puzzle-platformer     	| 2007 	| PC                                  	|            	|
+| Super Mario Galaxy                      	| Platform              	| 2007 	| Wii                                 	|            	|
+| Spelunky                                	| Platform              	| 2008 	|                                     	|            	|
+| Dark Souls                              	| Action role-playing   	| 2011 	| PlayStation 3, Xbox 360             	|            	|
+| The Elder Scrolls V: Skyrim             	| Action role-playing   	| 2011 	| PC, PlayStation 3, Xbox 360         	|            	|
+| Minecraft                               	| Sandbox               	| 2011 	| PC                                  	|            	|
+| DoTA 2                                  	| MOBA                  	| 2013 	| PC                                  	|            	|
+| Overwatch                               	| First-person shooter  	| 2016 	| PC, PlayStation 4, Xbox One         	|            	|
+| The Legend of Zelda: Breath of the Wild 	| Action-adventure      	| 2017 	| Nintendo Switch, Nintendo Wii U     	|            	|
+
 ## Get the source!
 
 ### Clone it via HTTPS:
