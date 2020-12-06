@@ -3,7 +3,7 @@
 A collection of clones of "classic" games, old and new, experience familiar mechanics and gameplay with a minimalistic aesthetic and open source technologies.
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=author&message=Rasmez&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=linux win android web&color=297be5&labelColor==242526" style="display: inline;">
+  <img src="https://img.shields.io/static/v1?label=author&message=Rasmez&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platforms&message=linux, win, android, web&color=297be5&labelColor==242526" style="display: inline;">
 </p>
 
 ## 📌 Games to be "cloned"
