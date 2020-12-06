@@ -109,3 +109,9 @@ Please read [this](https://github.com/Rasmez/godot-classics/blob/master/docs/CON
 ## 📌 Notes
 
 Proudly made in the worst place on earth right now: 🇻🇪
+
+To the companies/individuals that owns the rights of the original games: 
+
+Thank you for making these, I love them all 💖
+
+🙏 Please don't sue me/us 
