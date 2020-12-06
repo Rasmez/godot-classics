@@ -8,12 +8,12 @@ A collection of clones of "classic" games, old and new, experience familiar mech
 
 ## Do's and Don'ts of this project
 
--✔️ Use the core mechanics of a classic game in a "spiritual successor" mini-game
--✔️ Improve/Modernize/Simplify some aspect of the mechanics of the original game
--✔️ Increase the accesibility of a game, even if it means sacrifice the feeling of the original game
--❌ Make a cookie-cutter template of a genre-maker/defined game
--❌ Violate someone's Intelectual Property
--❌ Build 1:1 clone
+* Use the core mechanics of a classic game in a "spiritual successor" mini-game ✔️
+* Improve/Modernize/Simplify some aspect of the mechanics of the original game ✔️
+* Increase the accesibility of a game, even if it means sacrifice the feeling of the original game ✔️
+* Make a cookie-cutter template of a genre-maker/defined game ❌
+* Violate someone's Intelectual Property ❌
+* Build 1:1 clone of a commercial game ❌
 
 ## 📋 Games to be "cloned"
 
