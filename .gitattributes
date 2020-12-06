@@ -82,4 +82,13 @@
 #
 # GDScript linguist override
 #
+
+# Sources
 *.gd linguist-language=GDScript
+*.tres linguist-language=GDScript
+
+# Binaries
+*.res      binary
+
+# Documentation exclution
+docs/* linguist-documentation
