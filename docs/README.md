@@ -1,10 +1,19 @@
 # Godot Classics
 
-A collection of clones of "classic" games, old and new, experience familiar mechanics, now with a minimalist aesthetic.
-
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=author&message=Rasmez&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platforms&message=android,linux,web,windows&color=297be5&labelColor==242526" style="display: inline;">
 </p>
+
+A collection of clones of "classic" games, old and new, experience familiar mechanics, now with a minimalist aesthetic.
+
+## Do's and Don'ts of this project
+
+✔️ Use the core mechanics of a classic game in a "spiritual successor" mini-game
+✔️ Improve/Modernize/Simplify some aspect of the mechanics of the original game
+✔️ Increase the accesibility of a game, even if it means sacrifice the feeling of the original game
+❌ Make a cookie-cutter template of a genre-maker/defined game
+❌ Violate someone's Intelectual Property
+❌ Build 1:1 clone
 
 ## 📋 Games to be "cloned"
 
