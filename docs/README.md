@@ -79,25 +79,25 @@ Type this in your favorite terminal:
 git clone https://gitlab.com/rasmez/godot-classics.git
 ```
 
-### 📦 Get the latest build!
+### 📦 Get the latest build! (SOON™️)
 
 Download the appropiate package for your O.S:
 
-#### [Windows 7/8/8.1/10 x64 Installer (.msi)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### Windows 7/8/8.1/10 x64 Installer (.msi)
 
-#### [Windows 7/8/8.1/10 x64 Portable (.zip)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### Windows 7/8/8.1/10 x64 Portable (.zip)
 
-#### [GNU/Linux x64 Generic Portable (.AppImage)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### GNU/Linux x64 Generic Portable (.AppImage)
 
-#### [GNU/Linux x64 Generic Installer (.tar.gz)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### GNU/Linux x64 Generic Installer (.tar.gz)
 
-#### [GNU/Linux x64 Debian-based Installer (.deb)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### GNU/Linux x64 Debian-based Installer (.deb)
 
-#### [GNU/Linux x64 Generic Portable (.zip)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### GNU/Linux x64 Generic Portable (.zip)
 
-#### [Google PlayStore](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### Google PlayStore
 
-#### [Android ARM x64](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### Android ARM x64
 
 ## 🤔 How to contribute?
 
