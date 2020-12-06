@@ -1,12 +1,12 @@
 # Godot Classics
 
-A collection of clones of "classic" games, old and new, experience familiar mechanics and gameplay with a minimalistic aesthetic and open source technologies.
+A collection of clones of "classic" games, old and new, experience familiar mechanics, now with a minimalist aesthetic.
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=author&message=Rasmez&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platforms&message=android,linux,web,windows&color=297be5&labelColor==242526" style="display: inline;">
 </p>
 
-## 📌 Games to be "cloned"
+##  Games to be "cloned"
 
 | Game                                    	| Genre                 	| Year 	| Original platform(s)                	| Clone Name 	|
 |-----------------------------------------	|-----------------------	|------	|-------------------------------------	|------------	|
@@ -60,7 +60,7 @@ A collection of clones of "classic" games, old and new, experience familiar mech
 | Overwatch                               	| First-person shooter  	| 2016 	| PC, PlayStation 4, Xbox One         	|            	|
 | The Legend of Zelda: Breath of the Wild 	| Action-adventure      	| 2017 	| Nintendo Switch, Nintendo Wii U     	|            	|
 
-## Get the source!
+##  Get the source!
 
 ### Clone it via HTTPS:
 
@@ -97,5 +97,5 @@ Download the appropiate package for your O.S below
 
 Please read [this](https://github.com/Rasmez/godot-classics/blob/master/docs/CONTRIBUTING.md)
 
-## License
+## ⚖️License
 [MIT](https://choosealicense.com/licenses/mit/)
