@@ -6,7 +6,7 @@ A collection of clones of "classic" games, old and new, experience familiar mech
   <img src="https://img.shields.io/static/v1?label=author&message=Rasmez&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=0.0.1&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platforms&message=android,linux,web,windows&color=297be5&labelColor==242526" style="display: inline;">
 </p>
 
-##  Games to be "cloned"
+## 📋 Games to be "cloned"
 
 | Game                                    	| Genre                 	| Year 	| Original platform(s)                	| Clone Name 	|
 |-----------------------------------------	|-----------------------	|------	|-------------------------------------	|------------	|
@@ -60,28 +60,25 @@ A collection of clones of "classic" games, old and new, experience familiar mech
 | Overwatch                               	| First-person shooter  	| 2016 	| PC, PlayStation 4, Xbox One         	|            	|
 | The Legend of Zelda: Breath of the Wild 	| Action-adventure      	| 2017 	| Nintendo Switch, Nintendo Wii U     	|            	|
 
-##  Get the source!
+## Get it now! 🆓
 
-### Clone it via HTTPS:
+### ⬇️ Clone it via HTTPS:
 
 Type this in your favorite terminal:
 
 ```bash
 git clone https://gitlab.com/rasmez/godot-classics.git
 ```
-### Download a .zip:
 
-[Click here!](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+### 📦 Get the latest build!
 
-## Get the latest build!
+Download the appropiate package for your O.S:
 
-Download the appropiate package for your O.S below
-
-### [Windows 7/8/8.1/10 x64 Installer (.msi)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### [Windows 7/8/8.1/10 x64 Installer (.msi)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
 
 #### [Windows 7/8/8.1/10 x64 Portable (.zip)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
 
-### [GNU/Linux x64 Generic Portable (.AppImage)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### [GNU/Linux x64 Generic Portable (.AppImage)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
 
 #### [GNU/Linux x64 Generic Installer (.tar.gz)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
 
@@ -89,13 +86,17 @@ Download the appropiate package for your O.S below
 
 #### [GNU/Linux x64 Generic Portable (.zip)](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
 
-### [Google PlayStore](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
+#### [Google PlayStore](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
 
 #### [Android ARM x64](https://gitlab.com/rasmez/godot-classics/-/archive/master/godot-classics-master.zip)
 
-## 🤔 How to contribute
+## 🤔 How to contribute?
 
 Please read [this](https://github.com/Rasmez/godot-classics/blob/master/docs/CONTRIBUTING.md)
 
-## ⚖️License
+## ⚖️ License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## 📌 Notes
+
+Proudly made in the worst place on earth right now: 🇻🇪
